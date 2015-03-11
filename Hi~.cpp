@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include <math.h>
 int main(){
-	printf("hi~");
-	printf("%d",2+5);
+	printf("hi~\n");
+	printf("%d\n",2+5);
+	printf("%f\n",2.3+23.7);
 }
 
